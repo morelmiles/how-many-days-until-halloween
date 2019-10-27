@@ -12,23 +12,23 @@ If you are contributing to this project as part of ![Hacktoberfest](https://hack
 ## To contribute to this project
 
 1. Fork this repo. Please be sure to use the current _master_ branch as your starting point.
-		https://github.com/scrabill/how-many-days-until-halloween
-1. You'll be redirected to :
-		https://github.com/your-username/how-many-days-until-halloween
-1. Clone it the repository
-		git clone https://github.com/your-username/how-many-days-until-halloween.git
-1. Open in the text editor of your choice
-1. Create New Branch
-		cd repository
-		git branch new-branch
-		git checkout new-branch
-1. Make your edits Locally
-		git add -A  
-1. Commit the changes 
-		git commit -m "Fixed documentation typos"
-1. Submit a pull request
-		git push --set-upstream origin new-branch
-		
+   https://github.com/scrabill/how-many-days-until-halloween
+2. You'll be redirected to :
+   https://github.com/your-username/how-many-days-until-halloween
+3. Clone it the repository
+   git clone https://github.com/your-username/how-many-days-until-halloween.git
+4. Open in the text editor of your choice
+5. Create New Branch
+   cd repository
+   git branch new-branch
+   git checkout new-branch
+6. Make your edits Locally
+   git add -A
+7. Commit the changes
+   git commit -m "Fixed documentation typos"
+8. Submit a pull request
+   git push --set-upstream origin new-branch
+
 If there are any doubts, questions, etc, please open an issue and we can chat about it! Heck, if you have an idea but aren't sure how to approach it, open an issue anyway and we'll help you through it.
 
 Star this repo and stay tuned for updates.
